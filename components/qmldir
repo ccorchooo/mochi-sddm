@@ -1,0 +1,11 @@
+singleton Theme 1.0 Theme.qml
+Icon 1.0 Icon.qml
+Digit 1.0 Digit.qml
+Clock 1.0 Clock.qml
+Avatar 1.0 Avatar.qml
+IconButton 1.0 IconButton.qml
+PowerBar 1.0 PowerBar.qml
+SessionMenu 1.0 SessionMenu.qml
+PasswordField 1.0 PasswordField.qml
+LoginPanel 1.0 LoginPanel.qml
+Chip 1.0 Chip.qml
